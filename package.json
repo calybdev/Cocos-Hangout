@@ -1,0 +1,14 @@
+{
+  "name": "cocos-hangout",
+  "version": "0.0.0",
+  "description": "Coco's Hangout",
+  "main": "server.js",
+  "author": {
+    "name": "Caleb"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}

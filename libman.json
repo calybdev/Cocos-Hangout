@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "filesystem",
+  "libraries": [
+    {
+      "library": "C:\\Users\\Brook\\Desktop\\Web app\\",
+      "destination": "lib\\WebApp\\"
+    }
+  ]
+}
